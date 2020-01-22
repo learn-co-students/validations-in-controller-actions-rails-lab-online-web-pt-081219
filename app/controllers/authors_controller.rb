@@ -14,6 +14,7 @@ class AuthorsController < ApplicationController
       render :new
     end
   end
+  
 
   private
 
